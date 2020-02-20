@@ -1,0 +1,24 @@
+#toppage {
+    background: url("../backgrounds/h_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div img#delogo {
+    width: 90px;
+    align-self: center;
+}
+div img#mouseck {
+    width: 23px;
+    align-self: center;
+    position: absolute;
+    bottom: 20px;
+}
+#context{
+    padding: 50px;
+}
+#midpage {
+    background: url("../backgrounds/s_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 35px;
+}
