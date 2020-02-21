@@ -22,3 +22,21 @@ div img#mouseck {
     background-size: cover;
     padding: 35px;
 }
+#star div div img{
+    height: 90px;
+}
+#port{
+    padding: 20px;
+}
+#port img{
+    width: 100%;
+}
+#btmpg{
+    background: url("../backgrounds/c_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px;
+}
+#btmcont input, #btmcont textarea{
+    background: transparent; 
+}
