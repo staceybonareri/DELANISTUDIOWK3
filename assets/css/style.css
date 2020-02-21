@@ -39,4 +39,8 @@ div img#mouseck {
 }
 #btmcont input, #btmcont textarea{
     background: transparent; 
+    
+}
+#socont {
+    padding: 20px;
 }
