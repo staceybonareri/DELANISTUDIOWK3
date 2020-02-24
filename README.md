@@ -18,4 +18,4 @@
 Stacey Lorraine Bonareri
 
 ## LIVE PAGE
-[Open Live Page](https://https://github.com/staceybonareri/DELANISTUDIOWK3)
+[Open Live Page]( https://staceybonareri.github.io/DELANISTUDIOWK3/)
