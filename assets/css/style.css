@@ -64,3 +64,9 @@ div img#mouseck {
     border: 2px solid #fff;
 
 }
+
+
+.form-control::placeholder {
+    color: #fff;
+    opacity: 1;
+  }
