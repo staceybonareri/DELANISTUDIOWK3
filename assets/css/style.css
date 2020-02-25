@@ -70,3 +70,7 @@ div img#mouseck {
     color: #fff;
     opacity: 1;
   }
+
+  .hidden {
+      display: none;
+  }
